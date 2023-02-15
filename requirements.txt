@@ -1,0 +1,4 @@
+Django~=3.2.10
+pillow~=9.4.0
+sorl~=thumbnail-12.9.0
+django~=cleanup-7.0.0
